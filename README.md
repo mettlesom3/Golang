@@ -1,4 +1,4 @@
->> 1. Introduction 1
+>> 1. Introduction
 >> 2. Overview
 >> 3. Developement environment
 >> 4. Variables. values, & type
