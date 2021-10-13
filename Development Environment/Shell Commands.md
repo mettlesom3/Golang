@@ -1,19 +1,19 @@
->> The terminal\
+>> The terminal
 
-● terminology\
+● terminology
 
-	> GUI = graphical user interface\
-	> CLI = command line interface - command line\
+> GUI = graphical user interface
+> CLI = command line interface - command line
 		
-	>> terminal = text input/output environment; console = physical terminal\
+>> terminal = text input/output environment; console = physical terminal
 	
-	> unix / linux / mac\
-		○ shell / bash / terminal\
+> unix / linux / mac
+		○ shell / bash / terminal
 	
-	> windows\
-		○ command prompt / windows command / cmd / dos prompt\
+> windows
+		○ command prompt / windows command / cmd / dos prompt
 
->> Shell / bash commands I\
+>> Shell / bash commands I
 
 ● shell / bash commands\
 	> pwd\
