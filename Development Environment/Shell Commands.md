@@ -1,6 +1,5 @@
 >> The terminal
 
-● terminology
 
 > GUI = graphical user interface
 > CLI = command line interface - command line
@@ -46,3 +45,5 @@ rwxrwxrwx = owner, group, world\
 	> grep\
 		■ cat temp2.txt | grep enter\
 		■ ls | grep -i documents\
+
+>> All commands - https://ss64.com/bash/
